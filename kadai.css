@@ -1,0 +1,120 @@
+@charset "UTF-8";
+
+html{
+    background-color:antiquewhite;
+    color:rgba(50, 58, 66, 0.966);
+    font-family:'DM Serif Display',serif;
+}
+body{
+    width:1400px;
+    margin: auto;
+}
+img{
+    width:100%;
+}
+strong{
+    font-size: 17px;
+}
+span{
+    background-color:rgb(176, 215, 216)
+}
+.TE{
+    width:100%;
+    font-size:20px;
+    display:flex;
+    justify-content:space-around;
+    list-style:none;
+    text-align:center;
+    
+}
+.HR{
+    width:100%;
+    border-width: 10px;
+}    
+.cheesecake{
+    width:100%;
+    position:relative;
+    text-align:center;
+    opacity:0.3;
+}
+
+.box2{
+    width:500px;
+    position:absolute;
+    top:300px;
+    left:900px;
+}
+h1{
+    font-size:38px;  
+}
+h2{
+    margin-top:30px;
+    font-size:45px;
+    text-align: center;
+    line-height:3;
+    letter-spacing:0.08em;
+}
+
+h3{
+    font-size:35px;
+    margin:60px;
+}
+h4{
+    font-size:30px;
+    letter-spacing:0.05em;
+}
+.MLP{
+    width:700px;
+    position:relative;
+    top:-330px;
+    left:600px;
+}
+
+.gaikan{
+    width:80%;
+    position:relative;
+    top:50px;
+    left:100px;
+}
+
+.ML{
+    width:700px;
+    position:relative;
+    top:-290px;
+    margin-right:150px;
+    float:left;
+}
+
+.monalunapua{
+    width:100%;
+    position:relative;
+    top:-300px;
+}
+
+.eatin{
+    width:100%;
+    float:left;
+
+}
+.cafebld{
+    margin-top:10px;
+}
+.BLD{
+    width:700px;  
+    float:left;
+    margin-right:200px;
+}
+.bldcafe{
+    width:80%;
+    float:left;
+    margin-top:50px;
+    margin-left:100px;
+}
+.BLDP{
+    width:700px;
+    position:relative;
+    left:600px;
+    top:-300px;
+}
+
+
